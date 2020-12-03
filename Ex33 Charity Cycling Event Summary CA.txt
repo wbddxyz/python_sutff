@@ -1,0 +1,56 @@
+ ------------------------------------------
+Jane                    (45.0) km
+Alison                  (23.0) km
+Niam                    (83.0) km
+John                    (123.0) km
+Alan                    (177.0) km
+Kevin                   (120.0) km
+Raymond                 (99.0) km
+Brenda                  (119.0) km
+Wendy                   (145.0) km
+Joyce                   (173.0) km
+Lesley                  (120.0) km
+Lynn                    (188.0) km
+Sharon                  (120.0) km
+Dave                    (142.0) km
+Alastair                (94.0) km
+Bobby                   (162.0) km
+Elaine                  (104.0) km
+Gill                    (190.0) km
+Gina                    (178.0) km
+Magrat                  (198.0) km
+Peter                   (173.0) km
+Linda                   (126.0) km
+Waheeda                 (164.0) km
+Donna                   (142.0) km
+Heather                 (130.0) km
+Bill                    (138.0) km
+Kirsty                  (95.0) km
+Siobhan                 (162.0) km
+Lisa                    (135.0) km
+John                    (140.0) km
+Lee                     (93.0) km
+Rebecca                 (72.0) km
+Grant                   (95.0) km
+Isobel                  (105.0) km
+Janice                  (62.0) km
+Anne                    (87.0) km
+Louise                  (88.0) km
+Stuart                  (45.0) km
+Patricia                (83.0) km
+Nina                    (144.0) km
+Margaret                (120.0) km
+Peter                   (94.0) km
+John                    (183.0) km
+Angela                  (154.0) km
+Enock                   (125.0) km
+Ken Sun                 (66.0) km
+Daniel                  (109.0) km
+Sandie                  (120.0) km
+Tracey                  (114.0) km
+Quroum                  (126.0) km
+--------------------------------------------
+The total distance cycled was 6093
+The group average distance cycled was 122
+The student with the highest score was Magrat  198.0
+--------------------------------------------

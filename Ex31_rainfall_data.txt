@@ -1,0 +1,20 @@
+RBGE 2019 Rainfall Report
+------------------------------------------
+  Jan        (12.1) mm
+  Feb        (18.4) mm
+  Mar        (80.0) mm
+  Apr        (33.8) mm
+  May        (72.8) mm
+  Jun        (78.8) mm
+  Jul        (100.2) mm
+  Aug        (140.8) mm
+  Sep        (79.4) mm
+  Oct        (106.2) mm
+  Nov        (76.6) mm
+  Dec        (52.4) mm
+--------------------------------------------
+The total rainfall for the year was 852mm
+The average monthly rainfall for the year was 71mm
+The wettest month was Aug  140.8mm
+The driest month was Jan  12.1mm
+--------------------------------------------

@@ -1,0 +1,5 @@
+ --------------------------------------------
+The average score for the class was 122
+The total number of students who passed was 24 
+The student with the highest score was Magrat Garlick 198
+--------------------------------------------

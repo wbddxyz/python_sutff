@@ -1,0 +1,15 @@
+Summary Age Data
+The oldest person is Linda Coe (85)
+The youngest person is Nina Hogg (18)
+The average age is 42
+The following are older then the average:
+  Alison Thomas        (53)
+  Grant Ewing          (49)
+  Isobel Hogg          (43)
+  Ken Sun Chung        (48)
+  Linda Coe            (85)
+  Niam Taylor          (75)
+  Patricia Niven       (60)
+  Peter Holmes         (56)
+  Sharon Greenwood     (52)
+  Siobhan Easter       (52)

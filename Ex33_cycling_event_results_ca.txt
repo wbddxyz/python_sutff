@@ -1,0 +1,31 @@
+RBGE 2019 Rainfall Report
+------------------------------------------
+  Christopher    ++    (17.7) km
+  Danny    ++    (13.9) km
+  David    ++    (16.5) km
+  Donal    ++    (12.3) km
+  Gary    ++    (12.9) km
+  Giovanni    ++    (12.1) km
+  Gordon    ++    (17.5) km
+  Ian    ++    (19.9) km
+  Iofur    ++    (18.2) km
+  Iris    ++    (18.2) km
+  Katie    ++    (12.3) km
+  Keith    ++    (11.6) km
+  Krishnam    ++    (32.1) km
+  Martin    ++    (13.5) km
+  Matt    ++    (23.1) km
+  Phillip    ++    (12.9) km
+  Richard    ++    (13.3) km
+  Robert    ++    (11.7) km
+  Roger    ++    (14.2) km
+  Samantha    ++    (13.6) km
+  Sandra    ++    (12.8) km
+  Scott    ++    (14.2) km
+  Simon    ++    (31.3) km
+  Travis    ++    (11.2) km
+--------------------------------------------
+The total distance cycled was 387km
+The group average distance cycled was 16km
+The student who cycled the most kilometres was Krishnam  32.1mm
+--------------------------------------------
