@@ -9,6 +9,14 @@ Read a csv file, summarize, and then write some text back to a text file
 import csv
 
 
+
+
+
+
+
+
+
+
 def get_index_maximum_value(data):
     '''
     Returns the index value of the largest element within the data array/list.
@@ -26,6 +34,9 @@ def get_index_maximum_value(data):
     return max_index
 
 
+
+
+
 def number_of_passes(data):
     passes = 0
     passmark = 120
@@ -33,6 +44,7 @@ def number_of_passes(data):
         if (data[x] >= 120):
             passes = passes + 1
     return passes
+
 
 
 def get_average(data):
@@ -75,8 +87,17 @@ def main():
 
     # summarize data
 
+
+
+    
+
+
     summary_text = ' '
   
+
+
+ 
+
     summary_text += '--------------------------------------------\n'
 
 
@@ -94,14 +115,27 @@ def main():
     summary_text += f'The student with the highest score was {names[index_max_value]}{surnames[index_max_value]} {scores[index_max_value]}\n'
 
     
+
+
+   
+
+
     summary_text += '--------------------------------------------\n'
 
-    # write text back to a new file
-    file_out = 'J27C76 Summary CA.txt'
-    write_text_to_file(file_out, summary_text)
+  
 
     
-    print(f'The data has been written to the file {file_out}')
+
+    # write text back to a new file
+    file_out = 'j27c76_CA.txt'
+    write_text_to_file(file_out, summary_text)
+
+ 
+
+
+
+  
+    print(summary_text)
    
 
     
